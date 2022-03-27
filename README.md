@@ -7,3 +7,5 @@
 
 <h3>📱 Team</h3>
 * <a herf="http://b1nd.com/#/">B1ND 6기</a>
+
+http://b1nd.com
